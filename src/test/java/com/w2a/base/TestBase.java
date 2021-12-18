@@ -1,6 +1,10 @@
 package com.w2a.base;
 
+
+//my base class for all test cases
+
 import java.io.FileInputStream;
+
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
